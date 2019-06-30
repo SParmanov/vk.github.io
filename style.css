@@ -1,0 +1,39 @@
+
+.bg-vk{
+	background: #4c75a3;
+}
+.bg-vk1{
+	background: #ebedf0;
+}
+img{
+	height: 60px;
+	width: 60px;
+}
+.color1{
+	color: #5f5f5f;
+}
+.btn-logIn{
+	height: 45px;
+	border-radius: 4px;
+}
+.a{
+	display: inline;
+}
+.txtBlue{
+	color: #4c75a3;
+}
+.bg-red{
+	background: #ffefe9;
+}
+.btn-logFailed{
+	height: 80px;
+	border-radius: 4px;
+	border: 2px solid #f2ab99;
+}
+.txt-size{
+	font-size: 14px;
+	margin: 0px;
+}
+.cursor{
+	cursor: pointer;
+}
